@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="http://semoss.org/ontologies/Relation/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<rdfs:Class rdf:about="http://semoss.org/ontologies/Concept"/>
+<rdf:Property rdf:about="http://semoss.org/ontologies/Relation"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<rdfs:subClassOf rdf:resource="http://semoss.org/ontologies/Concept"/>
+	<rdfs:Class rdf:resource="TYPE:LONG"/>
+	<Conceptual rdf:resource="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED"/>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/AMAT_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/AMAT_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/AMAT_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/CDC_consult/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/CDC_consult/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/CDC_consult/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/CURES_funds/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/CURES_funds/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/CURES_funds/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/DHAP_funds/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/DHAP_funds/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/DHAP_funds/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/DVH_funds/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/DVH_funds/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/DVH_funds/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVacute/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVacute/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HCVacute/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVacuterate/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVacuterate/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HCVacuterate/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVcases/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVcases/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HCVcases/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVprevalence/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HCVprevalence/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HCVprevalence/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HIVdiagnoses/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HIVdiagnoses/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HIVdiagnoses/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HIVincidence/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HIVincidence/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HIVincidence/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HIVprevalence/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HIVprevalence/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HIVprevalence/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/HOPWA_funds/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/HOPWA_funds/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/HOPWA_funds/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/MH_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/MH_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/MH_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_AMAT_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_AMAT_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/Med_AMAT_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_MH_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_MH_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/Med_MH_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_SA_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_SA_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/Med_SA_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_SMAT_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_SMAT_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/Med_SMAT_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_TMAT_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/Med_TMAT_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/Med_TMAT_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/PDMP_check_req/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/PDMP_check_req/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/PDMP_check_req/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/PLHIV/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/PLHIV/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/PLHIV/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/Population/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/Population/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/Population/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/RW_funds/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/RW_funds/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/RW_funds/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/SA_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/SA_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/SA_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/SMAT_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/SMAT_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/SMAT_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/SSP_legality/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/SSP_legality/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/SSP_legality/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/STATEABBREVIATION/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/STATEABBREVIATION/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:VARCHAR(2000)"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/STATEABBREVIATION/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/STATE_1/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/STATE_1/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:VARCHAR(2000)"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/STATE_1/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/TMAT_fac/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/TMAT_fac/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/TMAT_fac/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/YEAR/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/YEAR/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/YEAR/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/bup_phys/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/bup_phys/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/bup_phys/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/drugdeathrate/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/drugdeathrate/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/drugdeathrate/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/drugdeaths/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/drugdeaths/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/drugdeaths/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/drugdep/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/drugdep/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/drugdep/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/fentanyl_seize/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/fentanyl_seize/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/fentanyl_seize/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/mme_percap/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/mme_percap/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/mme_percap/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/nonmedpain/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/nonmedpain/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/nonmedpain/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/num_SSPs/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/num_SSPs/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:INT"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/num_SSPs/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/op_rel_inpat/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/op_rel_inpat/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/op_rel_inpat/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/partD30dayrxrate/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/partD30dayrxrate/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/partD30dayrxrate/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/pct_tx_med/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/pct_tx_med/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/pct_tx_med/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/pctunins/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/pctunins/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/pctunins/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<Contains rdf:about="http://semoss.org/ontologies/Relation/Contains/pctunmetneed/NATIONALDATAPIVOTED"/>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED_UNIQUE_ROW_ID/NATIONALDATAPIVOTED">
+	<DatatypeProperty xmlns="http://www.w3.org/2002/07/owl#">
+		<rdf:Description rdf:about="http://semoss.org/ontologies/Relation/Contains/pctunmetneed/NATIONALDATAPIVOTED">
+			<rdfs:Class rdf:resource="TYPE:DOUBLE"/>
+			<Conceptual rdf:resource="http://semoss.org/ontologies/Relation/Contains/pctunmetneed/NATIONALDATAPIVOTED"/>
+		</rdf:Description>
+	</DatatypeProperty>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/NATIONALDATAPIVOTED/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">14</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/AMAT_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">5</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/CDC_consult/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">0</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/CURES_funds/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">0</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/DHAP_funds/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/DVH_funds/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HCVacute/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">6</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HCVacuterate/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">5</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HCVcases/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HCVprevalence/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HIVdiagnoses/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">9</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HIVincidence/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">9</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HIVprevalence/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">8</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/HOPWA_funds/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/MH_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">3</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/Med_AMAT_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">5</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/Med_MH_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">3</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/Med_SA_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">13</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/Med_SMAT_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">13</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/Med_TMAT_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">12</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/PDMP_check_req/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">0</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/PLHIV/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">8</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/Population/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">8</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/RW_funds/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/SA_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">13</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/SMAT_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">13</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/SSP_legality/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">0</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/STATEABBREVIATION/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/STATE_1/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/TMAT_fac/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">12</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/YEAR/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">14</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/bup_phys/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/drugdeathrate/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">7</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/drugdeaths/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">7</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/drugdep/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/fentanyl_seize/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">2</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/mme_percap/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">2</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/nonmedpain/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/num_SSPs/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">2</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/op_rel_inpat/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">11</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/partD30dayrxrate/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/pct_tx_med/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/pctunins/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">2</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/pctunmetneed/NATIONALDATAPIVOTED">
+	<UNIQUE xmlns="http://semoss.org/ontologies/Relation/Contains/">1</UNIQUE>
+</rdf:Description>
+<rdf:Description rdf:about="http://semoss.org/ontologies/Concept/TimeStamp">
+	<TIME xmlns="ENGINE:">2018:11:06 17:56:14</TIME>
+</rdf:Description>
+
+</rdf:RDF>
